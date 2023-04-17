@@ -1,0 +1,16 @@
+.icon {
+  &__fallback-text {
+    clip: rect(0px, 0px, 0px, 0px);
+      height: 1px;
+      position: absolute;
+      width: 1px;
+      border-width: 0px;
+      border-style: initial;
+      border-color: initial;
+      border-image: initial;
+      margin: -1px;
+      overflow: hidden;
+      padding: 0px;
+
+  }
+}

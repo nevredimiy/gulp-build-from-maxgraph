@@ -1,0 +1,15 @@
+// базовые подключения
+@import "vars";
+@import "mixins";
+@import "fonts";
+@import "settings";
+
+// подключения компонентов страницы
+@import "./components/header";
+
+.for-center-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
