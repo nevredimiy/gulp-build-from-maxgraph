@@ -23,6 +23,9 @@ console.log(mobileCheck())
 // Реализация бургер-меню
 // import { burger } from './functions/burger';
 
+// Реализация кебаб-меню
+// import { kebab } from './functions/kebab';
+
 // Реализация остановки скролла (не забудьте вызвать функцию)
 // import { disableScroll } from './functions/disable-scroll';
 
